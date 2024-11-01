@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShortUrl Tracker\n"
+"POT-Creation-Date: 2023-01-06 09:16+0100\n"
+"PO-Revision-Date: 2023-01-08 11:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: shorturl-tracker.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class/Sut_Byw_Campaign.php:50 class/Sut_Byw_Dashboard.php:52
+#: class/Sut_Byw_Historic.php:41 class/Sut_Byw_Historic.php:87
+#: shorturl-tracker.php:492 shorturl-tracker.php:554
+msgid "Invalid License"
+msgstr "Licence invalide"
+
+#: class/Sut_Byw_Campaign.php:53 class/Sut_Byw_Dashboard.php:55
+#: class/Sut_Byw_Historic.php:44 class/Sut_Byw_Historic.php:91
+#: shorturl-tracker.php:495 shorturl-tracker.php:558
+msgid "Bad Request"
+msgstr "Requête erronée"
+
+#: class/Sut_Byw_Campaign.php:56 class/Sut_Byw_Historic.php:47
+#: class/Sut_Byw_Historic.php:95 shorturl-tracker.php:498
+#: shorturl-tracker.php:562
+msgid "Sorry, an error occurred. Please reload the page"
+msgstr "Désolé, une erreur s’est produite. Veuillez recharger la page"
+
+#: class/Sut_Byw_Dashboard.php:58
+msgid "An error occurred. Please reload page"
+msgstr "Une erreur s’est produite. Veuillez recharger la page"
+
+#: create_campaign.php:31 dashboard.php:37 get_campaign.php:68 historic.php:53
+msgid "Back"
+msgstr "Retour"
+
+#: create_campaign.php:37
+msgid "Campaign"
+msgstr "Campagne"
+
+#: create_campaign.php:37
+msgid "created !"
+msgstr "créée!"
+
+#: create_campaign.php:39
+msgid "Description"
+msgstr "Description"
+
+#: create_campaign.php:44
+msgid "Created on"
+msgstr "Créé le"
+
+#: create_campaign.php:49 get_campaign.php:88
+msgid "Add Link"
+msgstr "Ajouter un lien"
+
+#: create_campaign.php:58
+msgid "Create a campaign"
+msgstr "Créer une campagne"
+
+#: create_campaign.php:60
+msgid "Start a campaign and add links"
+msgstr "Démarrer une campagne et ajouter des liens"
+
+#: create_campaign.php:67 link-admin.php:124
+msgid "Make favorite"
+msgstr "Marquer comme Favori"
+
+#: create_campaign.php:70 create_campaign.php:84 shorturl-tracker.php:175
+msgid "Create Campaign"
+msgstr "Créer une campagne"
+
+#: create_campaign.php:85
+msgid "Upgrade license to Medium Level to Create Campaign"
+msgstr "Mettre à niveau la licence vers Medium pour créer une campagne"
+
+#: create_campaign.php:87 dashboard.php:77 dashboard.php:92 dashboard.php:107
+#: get_campaign.php:112 get_campaign.php:213 historic.php:102 historic.php:117
+msgid "Upgrade License"
+msgstr "Changer de Licence"
+
+#: create_campaign.php:92 dashboard.php:147 get_campaign.php:218
+#: historic.php:202 link-admin.php:166
+msgid "You must Activate your License to Activate the Plugin"
+msgstr "Vous devez activer votre licence pour activer le plugin"
+
+#: create_campaign.php:94 dashboard.php:149 get_campaign.php:220
+#: historic.php:204 link-admin.php:168
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: dashboard.php:40
+msgid "Dashboard ShortUrl Tracker"
+msgstr "Tableaux de bord ShortUrl Tracker"
+
+#: dashboard.php:41
+msgid "Performance of all the links that you created"
+msgstr "Performance de tous les liens que vous avez créés"
+
+#: dashboard.php:42 historic.php:67 historic.php:168
+msgid "Upgrade license to Medium Level to modify date"
+msgstr "Mettre à niveau la licence vers Medium pour modifier la date"
+
+#: dashboard.php:49 get_campaign.php:84
+msgid "Created Links"
+msgstr "Liens créés"
+
+#: dashboard.php:53
+msgid "Total"
+msgstr "Total"
+
+#: dashboard.php:59 get_campaign.php:94 historic.php:84
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: dashboard.php:63 get_campaign.php:98 historic.php:88
+msgid "Total / Single"
+msgstr "Total / Unique"
+
+#: dashboard.php:69 get_campaign.php:104 historic.php:94
+msgid "Orders"
+msgstr "Commandes"
+
+#: dashboard.php:74
+msgid "Number / Amount"
+msgstr "Nombre / Montant"
+
+#: dashboard.php:76 get_campaign.php:111 historic.php:101
+msgid "Premium Feature"
+msgstr "Licence Premium"
+
+#: dashboard.php:84 get_campaign.php:119 historic.php:109
+msgid "Device"
+msgstr "Appareil"
+
+#: dashboard.php:89 get_campaign.php:123 historic.php:114
+msgid "Desktop / Mobile"
+msgstr "PC / Mobile"
+
+#: dashboard.php:91 dashboard.php:106 historic.php:116
+msgid "Medium Feature"
+msgstr "Licence Medium"
+
+#: dashboard.php:99 get_campaign.php:129
+msgid "Top Link"
+msgstr "Top Lien"
+
+#: dashboard.php:114 get_campaign.php:139 historic.php:133
+msgid "Change date"
+msgstr "Date"
+
+#: dashboard.php:119 get_campaign.php:144 get_campaign.php:182 historic.php:138
+#: historic.php:174
+msgid "From"
+msgstr "De"
+
+#: dashboard.php:123 get_campaign.php:148 get_campaign.php:186 historic.php:142
+#: historic.php:178
+msgid "To"
+msgstr "Au"
+
+#: dashboard.php:126 get_campaign.php:151 historic.php:145
+msgid "Search"
+msgstr "Rechercher"
+
+#: get_campaign.php:76
+msgid "Campaign Name :"
+msgstr "Nom de la campagne:"
+
+#: get_campaign.php:77
+msgid "Description : "
+msgstr "Description: "
+
+#: get_campaign.php:109 historic.php:99
+msgid "Orders / Amount"
+msgstr "Commandes / Montant"
+
+#: get_campaign.php:176 get_campaign.php:210 shorturl-tracker.php:179
+msgid "All Campaigns"
+msgstr "Toutes les campagnes"
+
+#: get_campaign.php:211
+msgid "Upgrade license to Medium Level to manage Campaign"
+msgstr "Mettre à niveau la licence vers Medium pour gérer des campagnes"
+
+#: historic.php:64
+msgid "Information for link:"
+msgstr "Informations pour le lien:"
+
+#: historic.php:64
+msgid "Copy"
+msgstr "Copier"
+
+#: historic.php:66
+msgid "Name : "
+msgstr "Nom : "
+
+#: historic.php:74
+msgid "Created Date"
+msgstr "Créé le"
+
+#: historic.php:78 shorturl-tracker.php:673
+msgid "Go to Campaign"
+msgstr "Campagne"
+
+#: historic.php:78
+msgid "Date"
+msgstr "Date"
+
+#: historic.php:124
+msgid "QRCode"
+msgstr "QRCode"
+
+#: historic.php:125
+msgid "SCAN"
+msgstr "SCAN"
+
+#: historic.php:167
+msgid "Links Historic"
+msgstr "Liens créés"
+
+#: link-admin.php:29
+msgid "Create Short Link"
+msgstr "Créer un lien court"
+
+#: link-admin.php:30
+msgid "What are you looking for (Pages, Articles, Products)"
+msgstr "Que recherchez-vous (Pages, Articles, Produits)"
+
+#: link-admin.php:37
+msgid "Products, Pages,<br> Posts"
+msgstr "Produits, Pages,<br> Articles"
+
+#: link-admin.php:43
+msgid "Categories,<br>Product Categories"
+msgstr "Catégories<br>Catégories Produits"
+
+#: link-admin.php:51
+msgid "Search..."
+msgstr "Rechercher..."
+
+#: link-admin.php:67
+msgid "Add Google Analytics Tracking"
+msgstr "Ajouter paramètres Google Analytics"
+
+#: link-admin.php:97
+msgid "Add specific product variation"
+msgstr "Ajouter une variation"
+
+#: link-admin.php:104
+msgid "Add Custom Param"
+msgstr "Paramètres personnalisés"
+
+#: link-admin.php:111 shorturl-tracker.php:218
+msgid "Add"
+msgstr "Ajouter"
+
+#: link-admin.php:115
+msgid "Add Link Name"
+msgstr "Ajouter un nom pour le lien"
+
+#: link-admin.php:128
+msgid "Attach to Campaign"
+msgstr "Attacher à une campagne"
+
+#: link-admin.php:139
+msgid "Generate Shortlink"
+msgstr "Générer un lien court"
+
+#: link-admin.php:151
+msgid "Short URL generated !"
+msgstr "URL courte générée !"
+
+#: link-admin.php:157
+msgid "Tell your Friends! "
+msgstr "Parlez-en à vos amis! "
+
+#: settings.php:16
+msgid "Delete"
+msgstr "Supprimer"
+
+#: settings.php:31 shorturl-tracker.php:187
+msgid "Settings"
+msgstr "Paramètres"
+
+#: settings.php:44
+msgid "Account"
+msgstr "Compte"
+
+#: settings.php:57 settings.php:60
+msgid "License Key"
+msgstr "Clé de Licence"
+
+#: settings.php:76
+msgid ""
+"No license ? Click <a href=\"https://buildyourweb.fr/plugin-shorturl-tracker/"
+"\" target=\"_blank\">here</a>"
+msgstr ""
+"Pas de licence ? Cliquez <a href=\"https://buildyourweb.fr/plugin-shorturl-"
+"tracker/\" target=\"_blank\">ici</a>"
+
+#: settings.php:97
+msgid "Cookie Lifetime"
+msgstr "Durée de vie du cookie"
+
+#: settings.php:97
+msgid "in days"
+msgstr "en jours"
+
+#: settings.php:102
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: settings.php:113
+msgid "Informations"
+msgstr "Informations"
+
+#: settings.php:118
+msgid "License Level"
+msgstr "Licence"
+
+#: settings.php:118
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+#: settings.php:119
+msgid "Total Link Created"
+msgstr "Nombre de liens créés"
+
+#: settings.php:121 settings.php:123
+msgid "Remaining Links"
+msgstr "Liens restants"
+
+#: settings.php:123
+msgid "Unlimited"
+msgstr "Illimité"
+
+#: shorturl-tracker.php:167
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: shorturl-tracker.php:171
+msgid "Create Shortlink"
+msgstr "Créer un lien court"
+
+#: shorturl-tracker.php:183
+msgid "All Shortlinks"
+msgstr "Tous les liens courts"
+
+#: shorturl-tracker.php:219
+msgid "Remove"
+msgstr "Supprimer"
+
+#: shorturl-tracker.php:220
+msgid "<p>Copy Link</p>"
+msgstr "<p>Copier le lien</p>"
+
+#: shorturl-tracker.php:222
+msgid ""
+"<p>Copied</p><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" "
+"height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-"
+"width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" "
+"class=\"feather feather-check\"><polyline points=\"20 6 9 17 4 12\"></"
+"polyline></svg>"
+msgstr ""
+"<p>Copié</p><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" "
+"height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-"
+"width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" "
+"class=\"feather feather-check\"><polyline points=\"20 6 9 17 4 12\"></"
+"polyline></svg>"
+
+#: shorturl-tracker.php:591 shorturl-tracker.php:668
+msgid "Created the"
+msgstr "Créé le"
+
+#: shorturl-tracker.php:594
+msgid "add Link"
+msgstr "ajouter un lien"
+
+#: shorturl-tracker.php:595 shorturl-tracker.php:676
+msgid "Details"
+msgstr "En savoir +"
+
+#. Plugin Name of the plugin/theme
+msgid "ShortUrl Tracker"
+msgstr "ShortUrl Tracker"
+
+#. Plugin URI of the plugin/theme
+msgid "https://buildyourweb.fr/plugin-shorturl-tracker/"
+msgstr "https://buildyourweb.fr/plugin-shorturl-tracker/"
+
+#. Description of the plugin/theme
+msgid ""
+"ShortUrl Tracker allows you to create ShortLink directly on your WordPress "
+"Administration. Track Clicks, Devices, Sales, Top Link etc... Create "
+"Campaigns an attached all links you wants."
+msgstr ""
+"ShortUrl Tracker vous permet de créer des URLs courtes directement depuis "
+"l’administration WordPress. Suivez les Clics, les Appareils, les Ventes, le "
+"Top Lien  etc… Groupez vos liens en Créant des campagnes."
+
+#. Author of the plugin/theme
+msgid "@BuildYourWeb"
+msgstr "@BuildYourWeb"
+
+#. Author URI of the plugin/theme
+msgid "https://buildyourweb.fr"
+msgstr "https://buildyourweb.fr"
+
+#~ msgid "Synchronize"
+#~ msgstr "Synchroniser"
+
+#~ msgid "WP Tracking"
+#~ msgstr "WP Tracking"

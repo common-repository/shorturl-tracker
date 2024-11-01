@@ -1,0 +1,398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShortUrl Tracker\n"
+"POT-Creation-Date: 2022-12-29 10:47+0100\n"
+"PO-Revision-Date: 2022-12-29 09:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: shorturl-tracker.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class/sut_byw_Campaign.php:48 class/sut_byw_Dashboard.php:50
+#: class/sut_byw_Historic.php:38 class/sut_byw_Historic.php:84
+#: shorturl-tracker.php:469 shorturl-tracker.php:531
+msgid "Invalid License"
+msgstr ""
+
+#: class/sut_byw_Campaign.php:51 class/sut_byw_Dashboard.php:53
+#: class/sut_byw_Historic.php:41 class/sut_byw_Historic.php:88
+#: shorturl-tracker.php:472 shorturl-tracker.php:535
+msgid "Bad Request"
+msgstr ""
+
+#: class/sut_byw_Campaign.php:54 class/sut_byw_Historic.php:44
+#: class/sut_byw_Historic.php:92 shorturl-tracker.php:475 shorturl-tracker.php:539
+msgid "Sorry, an error occurred. Please reload the page"
+msgstr ""
+
+#: class/sut_byw_Dashboard.php:56
+msgid "An error occurred. Please reload page"
+msgstr ""
+
+#: create_campaign.php:31 dashboard.php:39 get_campaign.php:68 historic.php:53
+msgid "Back"
+msgstr ""
+
+#: create_campaign.php:37
+msgid "Campaign"
+msgstr ""
+
+#: create_campaign.php:37
+msgid "created !"
+msgstr ""
+
+#: create_campaign.php:39
+msgid "Description"
+msgstr ""
+
+#: create_campaign.php:44
+msgid "Created on"
+msgstr ""
+
+#: create_campaign.php:49 get_campaign.php:88
+msgid "Add Link"
+msgstr ""
+
+#: create_campaign.php:58
+msgid "Create a campaign"
+msgstr ""
+
+#: create_campaign.php:60
+msgid "Start a campaign and add links"
+msgstr ""
+
+#: create_campaign.php:67 link-admin.php:120
+msgid "Make favorite"
+msgstr ""
+
+#: create_campaign.php:70 create_campaign.php:84 shorturl-tracker.php:170
+msgid "Create Campaign"
+msgstr ""
+
+#: create_campaign.php:85
+msgid "Upgrade license to Medium Level to Create Campaign"
+msgstr ""
+
+#: create_campaign.php:87 dashboard.php:78 dashboard.php:93 dashboard.php:108
+#: get_campaign.php:112 get_campaign.php:213 historic.php:102 historic.php:117
+msgid "Upgrade License"
+msgstr ""
+
+#: create_campaign.php:92 dashboard.php:148 get_campaign.php:218
+#: historic.php:202 link-admin.php:162
+msgid "You must Activate your License to Activate the Plugin"
+msgstr ""
+
+#: create_campaign.php:94 dashboard.php:150 get_campaign.php:220
+#: historic.php:204 link-admin.php:164
+msgid "Activate License"
+msgstr ""
+
+#: dashboard.php:43 historic.php:67 historic.php:168
+msgid "Upgrade license to Medium Level to modify date"
+msgstr ""
+
+#: dashboard.php:50 get_campaign.php:84
+msgid "Created Links"
+msgstr ""
+
+#: dashboard.php:54
+msgid "Total"
+msgstr ""
+
+#: dashboard.php:60 get_campaign.php:94 historic.php:84
+msgid "Visitors"
+msgstr ""
+
+#: dashboard.php:64 get_campaign.php:98 historic.php:88
+msgid "Total / Single"
+msgstr ""
+
+#: dashboard.php:70 get_campaign.php:104 historic.php:94
+msgid "Orders"
+msgstr ""
+
+#: dashboard.php:75
+msgid "Number / Amount"
+msgstr ""
+
+#: dashboard.php:77 get_campaign.php:111 historic.php:101
+msgid "Premium Feature"
+msgstr ""
+
+#: dashboard.php:85 get_campaign.php:119 historic.php:109
+msgid "Device"
+msgstr ""
+
+#: dashboard.php:90 get_campaign.php:123 historic.php:114
+msgid "Desktop / Mobile"
+msgstr ""
+
+#: dashboard.php:92 dashboard.php:107 historic.php:116
+msgid "Medium Feature"
+msgstr ""
+
+#: dashboard.php:100 get_campaign.php:129
+msgid "Top Link"
+msgstr ""
+
+#: dashboard.php:115 get_campaign.php:139 historic.php:133
+msgid "Change date"
+msgstr ""
+
+#: dashboard.php:120 get_campaign.php:144 get_campaign.php:182 historic.php:138
+#: historic.php:174
+msgid "From"
+msgstr ""
+
+#: dashboard.php:124 get_campaign.php:148 get_campaign.php:186 historic.php:142
+#: historic.php:178
+msgid "To"
+msgstr ""
+
+#: dashboard.php:127 get_campaign.php:151 historic.php:145
+msgid "Search"
+msgstr ""
+
+#: get_campaign.php:76
+msgid "Campaign Name :"
+msgstr ""
+
+#: get_campaign.php:77
+msgid "Description : "
+msgstr ""
+
+#: get_campaign.php:109 historic.php:99
+msgid "Orders / Amount"
+msgstr ""
+
+#: get_campaign.php:176 get_campaign.php:210 shorturl-tracker.php:174
+msgid "All Campaigns"
+msgstr ""
+
+#: get_campaign.php:211
+msgid "Upgrade license to Medium Level to manage Campaign"
+msgstr ""
+
+#: historic.php:64
+msgid "Information for link:"
+msgstr ""
+
+#: historic.php:66
+msgid "Name : "
+msgstr ""
+
+#: historic.php:74
+msgid "Created Date"
+msgstr ""
+
+#: historic.php:78 shorturl-tracker.php:650
+msgid "Go to Campaign"
+msgstr ""
+
+#: historic.php:78
+msgid "Date"
+msgstr ""
+
+#: historic.php:124
+msgid "QRCode"
+msgstr ""
+
+#: historic.php:125
+msgid "SCAN"
+msgstr ""
+
+#: historic.php:167
+msgid "Links Historic"
+msgstr ""
+
+#: link-admin.php:25
+msgid "Create Short Link"
+msgstr ""
+
+#: link-admin.php:26
+msgid "What are you looking for (Pages, Articles, Products)"
+msgstr ""
+
+#: link-admin.php:33
+msgid "Products, Pages,<br> Posts"
+msgstr ""
+
+#: link-admin.php:39
+msgid "Categories,<br>Product Categories"
+msgstr ""
+
+#: link-admin.php:47
+msgid "Search..."
+msgstr ""
+
+#: link-admin.php:63
+msgid "Add Google Analytics Tracking"
+msgstr ""
+
+#: link-admin.php:93
+msgid "Add specific product variation"
+msgstr ""
+
+#: link-admin.php:100
+msgid "Add Custom Param"
+msgstr ""
+
+#: link-admin.php:107 shorturl-tracker.php:213
+msgid "Add"
+msgstr ""
+
+#: link-admin.php:111
+msgid "Add Link Name"
+msgstr ""
+
+#: link-admin.php:124
+msgid "Attach to Campaign"
+msgstr ""
+
+#: link-admin.php:135
+msgid "Generate Shortlink"
+msgstr ""
+
+#: link-admin.php:147
+msgid "Short URL generated !"
+msgstr ""
+
+#: link-admin.php:153
+msgid "Tell your Friends! "
+msgstr ""
+
+#: settings.php:13
+msgid "Delete"
+msgstr ""
+
+#: settings.php:28 shorturl-tracker.php:182
+msgid "Settings"
+msgstr ""
+
+#: settings.php:41
+msgid "Account"
+msgstr ""
+
+#: settings.php:54 settings.php:63
+msgid "License Key"
+msgstr ""
+
+#: settings.php:58
+msgid "Synchronize"
+msgstr ""
+
+#: settings.php:79
+msgid ""
+"No license ? Click <a href=\"https://buildyourweb.fr/plugin-wordpress-"
+"tracking/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: settings.php:100
+msgid "Cookie Lifetime"
+msgstr ""
+
+#: settings.php:100
+msgid "in days"
+msgstr ""
+
+#: settings.php:105
+msgid "Save"
+msgstr ""
+
+#: settings.php:116
+msgid "Informations"
+msgstr ""
+
+#: settings.php:121
+msgid "License Level"
+msgstr ""
+
+#: settings.php:121
+msgid "Upgrade"
+msgstr ""
+
+#: settings.php:122
+msgid "Total Link Created"
+msgstr ""
+
+#: settings.php:124 settings.php:126
+msgid "Remaining Links"
+msgstr ""
+
+#: settings.php:126
+msgid "Unlimited"
+msgstr ""
+
+#: shorturl-tracker.php:162
+msgid "Dashboard"
+msgstr ""
+
+#: shorturl-tracker.php:166
+msgid "Create Shortlink"
+msgstr ""
+
+#: shorturl-tracker.php:178
+msgid "All Shortlinks"
+msgstr ""
+
+#: shorturl-tracker.php:214
+msgid "Remove"
+msgstr ""
+
+#: shorturl-tracker.php:215
+msgid "<p>Copy Link</p>"
+msgstr ""
+
+#: shorturl-tracker.php:217
+msgid ""
+"<p>Copied</p><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" "
+"height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-"
+"width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" "
+"class=\"feather feather-check\"><polyline points=\"20 6 9 17 4 12\"></"
+"polyline></svg>"
+msgstr ""
+
+#: shorturl-tracker.php:568 shorturl-tracker.php:645
+msgid "Created the"
+msgstr ""
+
+#: shorturl-tracker.php:571
+msgid "add Link"
+msgstr ""
+
+#: shorturl-tracker.php:572 shorturl-tracker.php:653
+msgid "Details"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Tracking"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Tracking allows you to create ShortLink directly on your WordPress "
+"Administration. Compatible with Google Analytics. Find all the stat you need "
+"including Sales."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "@BuildYourWeb"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://buildyourweb.fr"
+msgstr ""
